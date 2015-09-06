@@ -496,9 +496,4 @@
        width="200"
        id="redpeak-unionjack" />
   </g>
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#797979;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Lend)"
-     d="m 500,299.99995 c 0,300.00001 0,300.00001 0,300.00001"
-     id="path4724"
-     inkscape:connector-curvature="0" />
 </svg>
