@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="240"
+   height="120"
+   id="svg3366"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="unionjack-original.svg">
+  <style
+     id="heraldic-colours">
+.argent {
+  fill-color:#ffffff;
+}
+.sable {
+  fill-color:#000000;
+}
+.gules {
+  fill-color:#cc0000;
+}
+.azure {
+  fill-color:#003399;
+}</style>
+  <defs
+     id="defs3368" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="36.65076"
+     inkscape:cy="0.016499135"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg3366"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="851"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     units="px"
+     objecttolerance="10000">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3455"
+       spacingx="2"
+       spacingy="2"
+       empspacing="10" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3371">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     y="0"
+     x="0"
+     height="120"
+     width="240"
+     id="rect3355"
+     style="fill:#000066;fill-opacity:1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="unionjack">
+    <rect
+       style="fill:#000066;fill-opacity:1"
+       id="field"
+       width="240"
+       height="120"
+       x="0"
+       y="0" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="white_bands">
+      <g
+         id="st-andrews-cross">
+        <path
+           class="argent"
+           inkscape:connector-curvature="0"
+           id="bend-sinister-argent"
+           d="M 240,0 216,0 0,108 0,120 24,120 240,12 Z"
+           style="fill:#ffffff" />
+        <path
+           class="argent"
+           style="fill:#ffffff"
+           d="m 0,0 24,0 216,108 0,12 -24,0 L 0,12 Z"
+           id="bend-dexter-argent"
+           inkscape:connector-curvature="0" />
+        <rect
+           id="pale-major"
+           width="40"
+           height="120"
+           x="100"
+           y="0"
+           class="argent"
+           style="fill-opacity:1;fill:#ffffff" />
+      </g>
+      <g
+         id="st-patricks-cross">
+        <path
+           style="fill:#cc0000"
+           d="m 0,0 112,56 0.005,-8 128,64 0,8 -112,-56 0,6 L 0,8 0,0"
+           id="path3438"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           style="fill:#cc0000"
+           d="M 224,0 128,48 112,64 0,120 16,120 112,72 128,56 240,0 Z"
+           id="path3436"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+      </g>
+      <g
+         id="st-georges-cross">
+        <rect
+           style="fill:#ffffff"
+           id="fess-major"
+           width="240"
+           height="40"
+           x="0"
+           y="40"
+           class="argent" />
+        <rect
+           y="48"
+           x="0"
+           height="24"
+           width="240"
+           id="fess-minor"
+           style="fill:#cc0000"
+           class="gules" />
+        <rect
+           y="0"
+           x="108"
+           height="120"
+           width="24"
+           id="pale-minor"
+           style="fill:#cc0000"
+           class="gules" />
+      </g>
+    </g>
+  </g>
+</svg>
