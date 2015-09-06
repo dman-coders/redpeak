@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="617.57575"
+     inkscape:cx="610.4329"
      inkscape:cy="576.20442"
      inkscape:document-units="px"
      inkscape:current-layer="svg3360"
@@ -65,12 +65,12 @@
   </metadata>
   <g
      transform="translate(550,49.999941)"
-     id="unionjack-original">
+     id="g4722">
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/unionjack-original.svg"
        xlink:href="unionjack-original.svg"
        x="0"
-       id="image4507"
+       id="unionjack-original"
        width="400"
        height="200" />
     <rect
@@ -82,15 +82,13 @@
        height="200" />
   </g>
   <g
-     id="g4687"
+     id="maoriweavings"
      transform="translate(50,49.999941)">
     <image
-       sodipodi:absref="/Users/dan/Documents/flag/src/img/diamond_weave.jpg"
-       xlink:href="diamond_weave.jpg"
-       y="5.9824197e-06"
-       x="-50"
+       sodipodi:absref="/Users/dan/Documents/flag/src/img/annemcleoddesign-diamond_weave-detail.jpg"
+       xlink:href="annemcleoddesign-diamond_weave-detail.jpg"
        height="200"
-       width="400"
+       width="200"
        id="annemcleoddesign-diamond_weave" />
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/tukutuku-tryptich-detail.jpg"
@@ -126,8 +124,7 @@
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/redpeak-tukutuku-hatched2.svg"
        xlink:href="redpeak-tukutuku-hatched2.svg"
-       id="image3612"
-       xlink="redpeak-tukutuku-hatched2.svg"
+       id="redpeak-tukutuku-hatched"
        width="400"
        height="200" />
     <rect
