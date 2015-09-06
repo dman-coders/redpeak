@@ -16,7 +16,10 @@
    id="svg3360"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="redpeak_motifs-side_by_side.svg">
+   sodipodi:docname="redpeak_motifs-side_by_side.svg"
+   inkscape:export-filename="/Users/dan/Documents/flag/src/img/redpeak_motifs-side_by_side.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs3362" />
   <sodipodi:namedview
@@ -27,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="398.29004"
-     inkscape:cy="394.25759"
+     inkscape:cx="455"
+     inkscape:cy="966"
      inkscape:document-units="px"
      inkscape:current-layer="svg3360"
      showgrid="true"
@@ -65,7 +68,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(550,49.99994)"
+     transform="translate(550,50)"
      id="g4722">
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/unionjack-original.svg"
@@ -84,7 +87,7 @@
   </g>
   <g
      id="maoriweavings"
-     transform="translate(50,49.99994)">
+     transform="translate(50,50)">
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/annemcleoddesign-diamond_weave-detail.jpg"
        xlink:href="annemcleoddesign-diamond_weave-detail.jpg"
@@ -104,8 +107,7 @@
        height="200"
        width="200"
        id="david_green-maori_dress-detail"
-       x="100"
-       y="-1.758076e-08" />
+       x="100" />
     <rect
        height="200"
        width="400"
@@ -118,10 +120,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(109.28572,682.35713)" />
+     transform="translate(109,682)" />
   <g
      id="tukutuku-hatched"
-     transform="translate(50,349.99995)">
+     transform="translate(50,350)">
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/redpeak-tukutuku-hatched2.svg"
        xlink:href="redpeak-tukutuku-hatched2.svg"
@@ -138,7 +140,7 @@
   </g>
   <g
      id="unionjack-deconstructed"
-     transform="translate(550,349.99995)">
+     transform="translate(550,350)">
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/redpeak-unionjack-hatched3.svg"
        xlink:href="redpeak-unionjack-hatched3.svg"
@@ -156,7 +158,7 @@
   </g>
   <g
      id="tukutuku-brick"
-     transform="translate(250.00004,649.99996)">
+     transform="translate(250,650)">
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/redpeak-tukutuku.svg"
        xlink:href="redpeak-tukutuku.svg"
@@ -165,7 +167,7 @@
        height="200" />
   </g>
   <g
-     transform="translate(550,649.99996)"
+     transform="translate(550,650)"
      id="unionjack-brick">
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/redpeak-unionjack.svg"
@@ -176,11 +178,11 @@
   </g>
   <g
      id="redpeak"
-     transform="matrix(2.5,0,0,2.5,625,324.99994)">
+     transform="matrix(2.5,0,0,2.5,625,325)">
     <image
        sodipodi:absref="/Users/dan/Documents/flag/src/img/redpeak-basic.svg"
        xlink:href="redpeak-basic.svg"
-       y="250.00002"
+       y="250"
        x="-150"
        id="redpeak-basic"
        width="200"
