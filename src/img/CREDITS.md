@@ -11,3 +11,9 @@ http://annemcleoddesign.com/kakahu-and-korowai/
  From David Green 2013
 https://www.flickr.com/photos/dpgreen/8823632300/
 ( CC BY-NC-SA 2.0 )
+
+Union Jack built based on Instructions from 
+http://www.jdawiseman.com/papers/union-jack/union-jack.html
+Copyright © Julian D. A. Wiseman
+
+
