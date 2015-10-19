@@ -3,7 +3,7 @@
 $inputfilename = "commonwealth.csv";
 $templatefilename = "commonwealth.tpl";
 $outputfilename = "commonwealth.html";
-$imgheight = 40;
+$imgheight = 80;
 
 
 $rows = array();
