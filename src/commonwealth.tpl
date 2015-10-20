@@ -36,5 +36,5 @@
     };
 </script>
 Most data pulled from <a href="https://en.wikipedia.org/wiki/Timeline_of_national_flags">Timeline of National Flags - wikipedia</a>
-
+Other sources: <a href="https://commons.wikimedia.org/wiki/Flags_based_on_British_ensigns">Flags Based on British Ensigns</a>
 </html>
